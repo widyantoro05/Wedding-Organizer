@@ -1,0 +1,33 @@
+.fa-heart:hover {
+    color: red;
+    border: red;
+}
+
+.grey-heart{
+    color: gray;
+    border: grey;
+}
+
+.red-heart{
+    color: red;
+    border: red;
+}
+
+.input-form{
+    border-bottom: 5px solid gray; 
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-left: 1.5em;
+    width: 90%
+}
+
+.button-olive{
+    background: #76846A;
+    border: #76846A
+}
+
+.button-white{
+    background: white;
+    border: #76846A
+}
